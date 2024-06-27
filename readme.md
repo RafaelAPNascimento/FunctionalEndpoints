@@ -8,4 +8,4 @@ For further reference, please consider the following sections:
 You should pass the header OP with one of the following values: +, -, *, /.
 
 The result is returned in the response.
-
+Errors are handled.
